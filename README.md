@@ -38,12 +38,11 @@ Desarrollador enfocado en el stack MERN y Profesor de Matemática. Actualmente c
 
 <div align="center">
 
-![Estadísticas de Antonio](https://github-readme-stats.vercel.app/api?username=antonioquintana&show_icons=true&theme=radical&cache_seconds=1800)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=antonioquintana&layout=compact&theme=radical&cache_seconds=1800)
+![Matemáticas](https://img.shields.io/badge/Matemáticas-Graduado-blue?style=for-the-badge&logo=mathematics&logoColor=white)
+![Sistemas](https://img.shields.io/badge/Sistemas-En_Progreso-orange?style=for-the-badge&logo=google-analytics&logoColor=white)
 
 ![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=antonioquintana&theme=radical)
-[![Trofeos de Antonio](https://github-profile-trophy.vercel.app/?username=antonioquintana&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-### 📊 Mi Actividad en GitHub
-![Gráfico de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=antonioquintana&theme=react-dark)
+
+
