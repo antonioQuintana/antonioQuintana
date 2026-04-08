@@ -30,10 +30,12 @@ Desarrollador enfocado en el stack MERN y Profesor de Matemática. Actualmente c
 
 ### 📬 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario-aqui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-quintana-7b4287196/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Global-blue)](https://antonioquintana.github.io/PortfolioQuintana/)
 
 ---
 ✨ "La matemática es el lenguaje con el que Dios ha escrito el universo, y el código es el lenguaje con el que nosotros construimos el futuro."
 
-![Estadísticas de Antonio](https://github-readme-stats.vercel.app/api?sername=antonioquintana&show_icons=true&theme=radical)
+![Estadísticas de Antonio](https://github-readme-stats.vercel.app/api?username=antonioquintana&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=antonioquintana&layout=compact&theme=radical)
+![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=antonioquintana&theme=radical)
