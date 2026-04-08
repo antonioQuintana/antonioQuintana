@@ -36,4 +36,4 @@ Desarrollador enfocado en el stack MERN y Profesor de Matemática. Actualmente c
 ---
 ✨ "La matemática es el lenguaje con el que Dios ha escrito el universo, y el código es el lenguaje con el que nosotros construimos el futuro."
 
-![Estadísticas de Antonio](https://github-readme-stats.vercel.app/api?username=antonioquintana&show_icons=true&theme=radical)
+![Estadísticas de Antonio](https://github-readme-stats.vercel.app/api?sername=antonioquintana&show_icons=true&theme=radical)
