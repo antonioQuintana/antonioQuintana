@@ -36,7 +36,14 @@ Desarrollador enfocado en el stack MERN y Profesor de Matemática. Actualmente c
 ---
 ✨ "La matemática es el lenguaje con el que Dios ha escrito el universo, y el código es el lenguaje con el que nosotros construimos el futuro."
 
-![Estadísticas de Antonio](https://github-readme-stats.vercel.app/api?username=antonioQuintana&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=antonioQuintana&layout=compact&theme=radical)
+<div align="center">
+
+![Estadísticas de Antonio](https://github-readme-stats.vercel.app/api?username=antonioquintana&show_icons=true&theme=radical&cache_seconds=1800)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=antonioquintana&layout=compact&theme=radical&cache_seconds=1800)
+
 ![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=antonioquintana&theme=radical)
 [![Trofeos de Antonio](https://github-profile-trophy.vercel.app/?username=antonioquintana&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+### 📊 Mi Actividad en GitHub
+![Gráfico de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=antonioquintana&theme=react-dark)
